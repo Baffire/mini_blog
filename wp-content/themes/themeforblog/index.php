@@ -70,7 +70,7 @@
 
             <!-- <div class="col-lg-8 col-md-10 mx-auto"> -->
             <div class="col-4 float-right">
-                <?php dynamic_sidebar('sidebar'); ?>
+                <?php get_sidebar() ?>
             </div>
             <!-- </div> -->
         </div>
